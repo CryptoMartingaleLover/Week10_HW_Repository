@@ -12,7 +12,7 @@
 
 ##### In conclusion, the out-of-sample RSME was lower than the in-sample RSME, suggesting that the model was a bit underfit for the data. Actual data significantly outperformed the predictions. 
 
-### **hw_time_series_analysis.ipynb**
+#### **hw_time_series_analysis.ipynb**
 
 ##### In this notebook, I loaded historical Dollar-Yen exchange rate futures data and applied time series analysis and modeling to determine whether there was any predictable behavior.
 
